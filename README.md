@@ -16,5 +16,5 @@
 > [!CAUTION]
 > do not forget about security.
 
-[!IMPORTANT]
-Crucial information necessary for users to succeed.
+> [!IMPORTANT]
+>Crucial information necessary for users to succeed.
