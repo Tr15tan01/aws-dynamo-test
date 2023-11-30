@@ -5,8 +5,8 @@
 >Just for testing purposes
 
 ### tasks to do
-- [] Make connection
-- [] make changes to database
+- [ ] Make connection
+- [ ] make changes to database
 - [x] read and write to database
 - [ ] more testing...
 
